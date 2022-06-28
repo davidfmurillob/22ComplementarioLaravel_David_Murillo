@@ -11,7 +11,7 @@
 </head>
 <body class="color_body">
     <header class="mt-3 mb-5">
-        <nav class="container d-flex justify-content-between ">
+        <nav class="container d-flex justify-content-between flex-wrap">
             <div>
                 <ul class="nav">
                 <li class="nav-item link_color">
@@ -43,10 +43,10 @@
         
     </header>
     <!-- Main section  -->
-<main class="container mt-4">
+<main class="container mt-4 mh-100">
     <div class="row text-center ">   
         <section class="col-sm-12 col-md-6 ">
-           <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, eaque.</h1> 
+           <h1>Welcome to the best travel agency of the world.</h1> 
            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus magnam illo voluptatem nobis blanditiis, earum dolores labore perspiciatis odio voluptas.</p>
            <div class="text-center fw-bold">
                 <button class="btn color1 mx-2 btn1">See offers</button>
@@ -63,7 +63,7 @@
 </main>
 
         <!-- Footer section -->
-        <footer id="contact" class="text-dark bg_footer">
+        <footer id="contact" class="text-dark bg_footer mt-4">
       <div class="container">
         <div class="row">
           <div class="col-12 col-md-6 col-lg-3">
