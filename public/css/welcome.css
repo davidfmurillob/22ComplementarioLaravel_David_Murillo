@@ -1,0 +1,28 @@
+.carousel_1{
+    width: 100vw;
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.color1{
+    background-color: blueviolet;
+}
+
+.color-body{
+    background-color: rgb(211, 204, 204);
+}
+.link_color{
+    color: blueviolet;
+}
+
+nav > button:hover{
+    background-color: aquamarine;
+}
+
+button:hover{
+background-color: rgb(169, 72, 189);
+}
+
+.bg_footer{
+background-color: rgb(136, 135, 135);
+}
